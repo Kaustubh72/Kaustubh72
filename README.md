@@ -7,7 +7,11 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
 
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaustubh_72) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-singh-68a6b5178/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaustubh@ieee.org)
-## Become my distraction (Social Media)🏅
+
+***FOLLOW ME ON GITHUB***
+
+##  Social Media 🏅
+
 ![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social) [![Follow Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaustubh_72/) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
 
 I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
@@ -18,5 +22,6 @@ I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/
 |                                                                                                                                        **[Kaustubh Singh](https://github.com/Kaustubh72)**                                                                                                                                        |
 | <a align="center" href="https://instagram.com/kaustubh72"><img src="https://thumbs.dreamstime.com/b/new-instagram-camera-logo-icon-vector-modern-gradient-design-illustrations-white-background-new-instagram-camera-logo-icon-136839821.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100009993960565"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaustubh-singh-68a6b5178/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 [![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh72&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=233242 )](https://github.com/kaustubh72)
+
 
 VIT © [Kaustubh Singh](https://github.com/kaustubh72)
