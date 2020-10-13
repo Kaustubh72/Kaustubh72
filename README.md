@@ -5,14 +5,14 @@ Grounded and solution-oriented **Computer Scientist** :sunglasses: seeking to ga
 I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫𝐬 💻 :heartbeat: and wake up every day only to immerse myself in the whole ecosystem of computers and technology. I enjoy learning new technologies and making creative yet innovative things which could help the world become a better place 📶.
 I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥𝐞𝐚𝐝𝐞𝐫 with a constant desire to inspire and uplift everyone around me.
 
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaustubh_72) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-singh-68a6b5178/)
+[![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaustubh72) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-singh-68a6b5178/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaustubh@ieee.org)
 
 ***FOLLOW ME ON GITHUB***
 
 ##  Social Media 🏅
 
-![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social)  [![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaustubh72) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
+![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaustubh_72) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
 
 I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
 
