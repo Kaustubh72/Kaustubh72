@@ -10,9 +10,10 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
 
 ***FOLLOW ME ON GITHUB***
 
-##  Social Media 🏅
+##  Intrests 
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)  ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)  ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)   ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)  ![](https://img.shields.io/badge/Microsoft-666666?logo=microsoft&logoColor=white&style=for-the-badge)  ![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social)  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaustubh_72) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
+![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=for-the-badge) 
 
 I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
 
