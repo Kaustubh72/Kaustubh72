@@ -12,7 +12,7 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
 
 ##  Social Media 🏅
 
-![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social) [![Follow Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaustubh_72/) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
+![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=social)  [![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaustubh72) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=social) 
 
 I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
 
