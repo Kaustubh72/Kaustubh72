@@ -5,7 +5,7 @@ Grounded and solution-oriented **Computer Scientist** :sunglasses: seeking to ga
 I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫𝐬 💻 :heartbeat: and wake up every day only to immerse myself in the whole ecosystem of computers and technology. I enjoy learning new technologies and making creative yet innovative things which could help the world become a better place 📶.
 I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥𝐞𝐚𝐝𝐞𝐫 with a constant desire to inspire and uplift everyone around me.
 
-[![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kaustubh72.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh72/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://kaustubhsingh.herokuapp.com/) [![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kaustubh72.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh72/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks04071999@gmail.com)
 
 ##  Intrests 
@@ -22,7 +22,27 @@ I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Kaustubh Singh](https://github.com/Kaustubh72)**                                                                                                                                        |
 | <a align="center" href="https://instagram.com/kaustubh72"><img src="https://thumbs.dreamstime.com/b/new-instagram-camera-logo-icon-vector-modern-gradient-design-illustrations-white-background-new-instagram-camera-logo-icon-136839821.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100009993960565"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaustubh72/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
-[![Kaustubh's github stats](https://github-readme-stats.vercel.app/api?username=kaustubh72&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=233242 )](https://github.com/kaustubh72)
+
+<h2>Statistics &#128202;</h2>
+<br>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaustubh72&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="150" width="390"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh72&count_private=true&show_icons=true&theme=dark" alt="omkarov stats" height="auto" height= "150" width="390"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh72&&langs_count=8&layout=compact&theme=dark" alt="omkarov top lang" height="150" width="400" />
+  <br/>
+</p>
+
+<p>
+    
+   
+
+</p
+<br>
+<hr>
+
+ [![counter](https://enet63i8u08omiz.m.pipedream.net)](https://github.com/Kaustubh72/Kaustubh72)
 
 
-VIT © [Kaustubh Singh](https://github.com/kaustubh72)
+VIT © [Kaustubh Singh](http://kaustubhsingh.herokuapp.com/)
