@@ -15,13 +15,7 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
  [![](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kaustubh72)<br />
  ![Follow Github](https://img.shields.io/github/followers/kaustubh72?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/kaustubh72?style=for-the-badge) 
 
-I am From **Varanasi**<img align="center" src="https://image.flaticon.com/icons/svg/2924/2924814.svg" alt="drawing" width="5%"/>
 
-
-|<img src="https://github.com/Kaustubh72/Kaustubh/blob/main/ime.jpg" alt="drawing" width="300"/> <a href="https://github.com/Kaustubh72"></a>                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Kaustubh Singh](https://github.com/Kaustubh72)**                                                                                                                                        |
-| <a align="center" href="https://instagram.com/kaustubh72"><img src="https://thumbs.dreamstime.com/b/new-instagram-camera-logo-icon-vector-modern-gradient-design-illustrations-white-background-new-instagram-camera-logo-icon-136839821.jpg" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100009993960565"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/kaustubh72/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 
 <h2>Statistics &#128202;</h2>
 <br>
