@@ -5,6 +5,18 @@ Grounded and solution-oriented **Computer Scientist** :sunglasses: seeking to ga
 I 𝐥𝐨𝐯𝐞 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫𝐬 💻 :heartbeat: and wake up every day only to immerse myself in the whole ecosystem of computers and technology. I enjoy learning new technologies and making creative yet innovative things which could help the world become a better place 📶.
 I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥𝐞𝐚𝐝𝐞𝐫 with a constant desire to inspire and uplift everyone around me.
 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/kaustubh72/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/kaustubh72/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/kaustubh72/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/kaustubh72/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/kaustubh72?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](http://kaustubhsingh.herokuapp.com/) [![Follow Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kaustubh72.medium.com/) [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh72/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks04071999@gmail.com)
 
