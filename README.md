@@ -32,14 +32,9 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
 <h2>Statistics &#128202;</h2>
 <br>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaustubh72&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="150" width="390"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh72&count_private=true&show_icons=true&theme=dark" alt="omkarov stats" height="auto" height= "150" width="390"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh72&count_private=true&show_icons=true&theme=dark" alt="omkarov stats" height="auto" height= "150" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh72&&langs_count=8&layout=compact&theme=dark" alt="omkarov top lang" height="150" width="250" />
 </p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh72&&langs_count=8&layout=compact&theme=dark" alt="omkarov top lang" height="150" width="400" />
-  <br/>
-</p>
-
 <p>
     
    
@@ -51,4 +46,4 @@ I am a confident and comforting presence to be around. A 𝐛𝐨𝐫𝐧 𝐥�
  [![counter](https://enet63i8u08omiz.m.pipedream.net)](https://github.com/Kaustubh72/Kaustubh72)
 
 
-VIT © [Kaustubh Singh](http://kaustubhsingh.herokuapp.com/)
+LICENSED © [Kaustubh Singh](https://hirekaustubhnow.onrender.com)
